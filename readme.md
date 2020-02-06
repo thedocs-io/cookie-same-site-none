@@ -1,5 +1,5 @@
 # Intro
-Java port of same `SameSite=None` support check:
+Java port of cookie `SameSite=None` support check:
 
 * https://web.dev/samesite-cookies-explained/
 * https://www.chromium.org/updates/same-site/incompatible-clients
